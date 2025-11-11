@@ -1,0 +1,27 @@
+body{
+    background-color: wheat;
+}
+
+h1{
+    color: white;
+    font-family: cursive;
+    -webkit-text-stroke-width: .2vh;
+    -webkit-text-stroke-color: black;
+}
+
+#carouselExampleAutoplaying{
+    width: 75%;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top:10vh;
+}
+
+.card-body h5{
+    text-align: center;
+}
+
